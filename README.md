@@ -5,7 +5,7 @@ Welcome to my personal Data Analyst portfolio.
 This website showcases my journey in data analytics, technical skills, projects, problem-solving experience, and professional profile.
 
 🌐 **Live Portfolio:**  
-[Visit My Portfolio](YOUR_GITHUB_PAGES_LINK)
+[Visit My Portfolio](https://jatins2002.github.io/Portfolio/)
 
 ---
 
