@@ -125,9 +125,9 @@ The goal is not only to analyze data, but to connect analytical findings with re
 
 💻 GitHub: @jatins2002
 
-🔗 LinkedIn: Add your LinkedIn profile URL here
+🔗 LinkedIn: https://www.linkedin.com/in/jatindra-soni/
 
-🌐 Portfolio: Add your deployed portfolio URL here
+🌐 Portfolio: https://jatins2002.github.io/Portfolio/
 
 ---
 
